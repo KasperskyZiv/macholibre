@@ -7,6 +7,8 @@ such as architectures, load commands, dynamic libraries, symbols, function
 imports, and tons more.  Then it packs all of that information into JSON for 
 ease of analysis and integration.
 
+Forked from https://github.com/aaronst/macholibre
+
 ## Python 2
 
 With Python 2 in its sunset years, macholibre has moved on to Python 3.
